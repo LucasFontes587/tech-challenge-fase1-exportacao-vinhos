@@ -102,18 +102,6 @@ A abordagem foi **quantitativa e exploratória**, estruturada em etapas:
 
 ---
 
-## 👥 Equipe
-
-> *Adicione os nomes e links do LinkedIn dos integrantes do grupo aqui*
-
-| Nome | LinkedIn |
-|------|----------|
-| Lucas Fontes Culatrelli | [🔗 Perfil](#) |
-| Integrante 2 | [🔗 Perfil](#) |
-| Integrante 3 | [🔗 Perfil](#) |
-
----
-
 ## 📚 Referências
 
 - Embrapa Uva e Vinho — Base de dados de exportações vitivinícolas do RS
